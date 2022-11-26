@@ -2,7 +2,7 @@ package com.bt_akademi.MicroserviceGatewayBT_Akademi.utility;
 
 public enum ExceptionMessageType
 {
-    FIND_BY_ID("Entity is not found");
+    FIND_BY_USERNAME("Entity is not found");
 
     private String value;
 
